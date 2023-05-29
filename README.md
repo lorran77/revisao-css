@@ -3,5 +3,5 @@
 
 ### Hierarquia e especificidade!
 
-!(imagem css)[img/csshtml.png]
+!(imagem css)[./csshtml.png]
 
