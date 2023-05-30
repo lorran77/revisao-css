@@ -1,0 +1,85 @@
+body {
+
+    margin-left: 800px;
+    color:chartreuse;
+}
+
+
+
+
+#xilindro{
+
+    
+    color: burlywood;
+    
+}
+
+p {
+
+    
+    color: blueviolet;
+}
+
+.propaganda {
+
+    
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+
+.titulodapag {
+
+    
+    color: plum;
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+.fundobrown{
+
+    color: yellow;
+    background-color: brown;
+    height: 120px;
+    
+}
+
+.fundobrown p{
+
+    
+    color: yellow;
+    
+    
+} 
+
+.fundobrown:hover {
+
+    background-color: blue;
+}
+
+.fundobrown::before{
+
+    color: orangered;
+    content: "Olá eu sou uma string que aparece antes do elemento(before)  "
+}
+
+.fundobrown::after{
+
+    color: green;
+    content: "Olá eu sou uma string que aparece depois do elemento(after)  "
+}
+
+.fundobrown:hover::after{
+
+    background-color: aquamarine;
+}
+
+
+
