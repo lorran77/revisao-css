@@ -1,6 +1,6 @@
 body {
 
-    margin-left: 800px;
+    margin-left: 40px;
     color:chartreuse;
 }
 
@@ -55,6 +55,7 @@ p {
 
     
     color: yellow;
+    transition: all 1s ease;
     
     
 } 
